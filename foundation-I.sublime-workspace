@@ -1,0 +1,200 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"selecte",
+				"selectedRoles"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/CitizenKevin/Dropbox/Aerio/microscope/server/fixtures.coffee",
+		"/Users/CitizenKevin/Dropbox/Aerio/microscope/collections/posts.coffee",
+		"/Users/CitizenKevin/Dropbox/Aerio/microscope/client/helpers/router.coffee",
+		"/Users/CitizenKevin/Dropbox/Aerio/microscope/client/views/includes/header.html",
+		"/Users/CitizenKevin/Dropbox/Aerio/icheckkids_web/icheckweb/server/fixtures/initial_data.coffee",
+		"/Users/CitizenKevin/Dropbox/Aerio/icheckkids_web/icheckweb/client/templates/admin.coffee",
+		"/Users/CitizenKevin/Dropbox/Aerio/microscope/client/views/posts/posts_list.html",
+		"/Users/CitizenKevin/Dropbox/Aerio/microscope/client/views/posts/posts_list.litcoffee",
+		"/Users/CitizenKevin/Dropbox/Aerio/microscope/client/views/posts/posts_submit.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"user.id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.sftp":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"initial_data",
+				"icheckkids_web/icheckweb/server/fixtures/initial_data.coffee"
+			],
+			[
+				"mypatient",
+				"icheckkids_web/icheckweb/client/templates/myPatients.coffee"
+			],
+			[
+				"admin.coffee",
+				"icheckkids_web/icheckweb/client/templates/admin.coffee"
+			],
+			[
+				"publish",
+				"icheckkids_web/icheckweb/server/publish.coffee"
+			],
+			[
+				"publication",
+				"microscope/server/publications.coffee"
+			],
+			[
+				"router",
+				"icheckkids_web/icheckweb/client/router.coffee"
+			],
+			[
+				"admin.coffe",
+				"icheckkids_web/icheckweb/client/templates/admin.coffee"
+			],
+			[
+				"admin.html",
+				"icheckkids_web/icheckweb/client/templates/admin.html"
+			],
+			[
+				"intial_data",
+				"icheckkids_web/icheckweb/server/fixtures/initial_data.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true
+}
